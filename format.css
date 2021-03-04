@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	margin: 50px;
+}
+
+table{
+	width:50%;
+}
+th {
+  text-align: left;
+}
+table, th {
+  border: 1px solid black;
+}
