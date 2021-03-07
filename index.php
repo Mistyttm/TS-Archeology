@@ -5,7 +5,7 @@
 <html>
 	<head>
 		<title>Database Example</title>
-		<link href="../11library/format.css" rel="stylesheet" type="text/css">
+		<link href="external/format.css" rel="stylesheet" type="text/css">
 	</head>
 
 	<body>
